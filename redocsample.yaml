@@ -18,7 +18,7 @@ info:
       that are available for Apps [created on or after Nov 17, 2015](http://instagram.com/developer/review/) and
       started in [Sandbox Mode](http://instagram.com/developer/sandbox/).
       * Consider the [Instagram limitations](https://instagram.com/developer/limits/) for API calls that depends on App Mode.
-      ##
+      
 
     **Warning:** For Apps [created on or after Nov 17, 2015](http://instagram.com/developer/changelog/) API responses
     containing media objects no longer return the `data` field in `comments` and `likes` nodes.
